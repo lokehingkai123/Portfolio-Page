@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    font-weight:bold;
+    color:blue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#score{
+    text-align: center;
+}
+
+
+.cover{
+    display: block;
+    max-height: 30px;
+    margin-right: auto;
+    width: 30%;
+}
+
+p{
+    font: bold;
+}
+
+.scoreText{
+    font-weight:bold;
+    text-align: center;
+    font-size: 30px;
+}
+
+#buttons{
+    text-align: center;
+}
+
+#gallery{
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
